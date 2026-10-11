@@ -119,9 +119,9 @@ Refer to the source code and circuit diagram for the exact configuration.
 
 ## Conclusion
 
-This project de<img width="1490" height="660" alt="Blynk_dashboard_dsp" src="https://github.com/user-attachments/assets/da91dac8-f750-447b-8aa1-53681af83e18" />
+<img width="1490" height="660" alt="Blynk_dashboard_dsp" src="https://github.com/user-attachments/assets/da91dac8-f750-447b-8aa1-53681af83e18" />
 <img width="1600" height="853" alt="serial-plotter_esp32" src="https://github.com/user-attachments/assets/a5bc17f6-fb31-44b4-af19-ba53658df2eb" />
-monstrates a practical integration of ESP32 hardware and Digital Signal Processing for environmental sound monitoring and classification. It provides hands-on experience in sound acquisition, signal analysis, embedded programming, and hardware testing.
+This project demonstrates a practical integration of ESP32 hardware and Digital Signal Processing for environmental sound monitoring and classification. It provides hands-on experience in sound acquisition, signal analysis, embedded programming, and hardware testing.
 
 ---
 
